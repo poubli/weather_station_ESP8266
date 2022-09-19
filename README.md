@@ -19,5 +19,9 @@ Weather station shall be installed outdoor where wifi is available (so not to fa
 First install my_env library and fill the env.json file (see env.json.example.json file)
 this can work either with or without ESP32 display.
 
+
 # Easy EDA PCB 
 ![Capture d’écran 2022-09-19 à 20 07 53](https://user-images.githubusercontent.com/109547086/191084801-ef04af7f-2880-4805-b063-bc54d9ed5b57.png)
+
+#
+![Capture d’écran 2022-09-19 à 20 20 02](https://user-images.githubusercontent.com/109547086/191086866-7a0cd366-bd43-496a-952a-6be3128c1fca.png)
