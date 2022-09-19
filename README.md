@@ -1,6 +1,6 @@
 # weather_station_ESP8266
 
-##This simple weather station use BME280 and DHT11 sensors to collect outdoor temp/humidity and pressure
+This simple weather station use BME280 and DHT11 sensors to collect outdoor temp/humidity and pressure
 The weather station is powered with 18650 Lithium battery charged by a solar panel.
 (Up to date this station is on my window for 2 years without any need to manually charge the battery even in winter.)
 
