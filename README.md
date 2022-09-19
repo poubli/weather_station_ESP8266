@@ -12,7 +12,7 @@ Another part of RPi program serve a local webserver to display real time and his
 Additionally the esp8266 connect also to ESP32 wich serve it's own IP SERVER.
 ESP32 display collected weather data with TFT LCD display (see "coming soon on my git")
 
-#USAGE:
+# Usage
 BME is connected to SCL / SDA i2c esp pins
 DHT is connected to IO 14
 Weather station shall be installed outdoor where wifi is available (so not to far)
